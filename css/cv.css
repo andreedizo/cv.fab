@@ -1,0 +1,27 @@
+.bordure1{
+	height: 900px;
+	background-color: green;
+}
+.bordure2{
+	height: 900px;
+	background-color: white;
+	border: solid red;
+}
+img{
+	height: 350px;
+	width: 350px;
+}
+li{
+	font-size: 20px;
+	color: white;
+}
+h2{
+	color: red;
+	border: solid green;
+	margin: 40px 60px 20px; 
+}
+h4{
+	margin: 20px;
+	font-size: 20px;
+	color: black;
+}
